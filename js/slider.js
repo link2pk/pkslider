@@ -66,7 +66,7 @@ var prevSpan = document.getElementById("prev"); 	prevSpan.addEventListener("clic
 		
 		
 
-		document.addEventListener("DOMContentLoaded", domLoaded);
+		
 	
 };
 pkslider();
